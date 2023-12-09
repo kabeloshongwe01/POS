@@ -1,0 +1,90 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Trousers and Skirts",
+            "price": "80"        },
+        {
+            "id": 2,
+            "name": "Length reduction",
+            "price": "70"
+        },
+        {
+            "id": 3,
+            "name": "Leg increasing",
+            "price": "150"
+        },
+        {
+            "id": 4,
+            "name": "Length increasing",
+            "price": "140"
+        },
+        {
+            "id": 5,
+            "name": "Waist reduction",
+            "price": "100"
+        },
+        {
+            "id": 6,
+            "name": "Waist increasing",
+            "price": "200"
+        },
+        {
+            "id": 7,
+            "name": "Length reduction",
+            "price": "200"
+        },
+        {
+            "id": 8,
+            "name": "Side reduction",
+            "price": "150"
+        },
+        {
+            "id": 9,
+            "name": "Sleeve length reduction",
+            "price": "120"
+        },
+        {
+            "id": 10,
+            "name": "Sleeve reduction",
+            "price": "150"
+        },
+        {
+            "id": 11,
+            "name": "Stitching/Darning Small hole",
+            "price": "60"
+        },
+        {
+            "id": 12,
+            "name": "Seam repair",
+            "price": "40"
+        },
+        {
+            "id": 13,
+            "name": "Patching Small hole",
+            "price": "120"
+        },
+        {
+            "id": 13,
+            "name": "Patching large hole",
+            "price": "180"
+        },
+        {
+            "id": 14,
+            "name": "Metal Zipper Trousers/Skirt",
+            "price": "180"
+        },
+        {
+            "id": 15,
+            "name": "Metal Zipper 'Jacket'",
+            "price": "120"
+        },
+        {
+            "id": 16,
+            "name": "Metal Zipper 'Coat'",
+            "price": "160"
+        }
+        
+        
+    ]
+}
